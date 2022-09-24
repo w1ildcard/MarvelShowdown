@@ -108,7 +108,7 @@
  ;Insert your characters below.
 
 Ryu, stages/Training Room.def, order=3
-randomselect
+Spider-Man
 Kung Fu Man, order=4, stages/Mountainside Temple.def, 4=Kung Fu Man
 randomselect
 Kyo Kusanagi, stages/Training Room.def, order=1
